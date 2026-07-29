@@ -57,7 +57,8 @@ See `queries/Query_Doc.docx` (or the SQL scripts) for the full annotated query s
 - Data table: All metrics by Outlet Type (Total Sales, No. of Items, Average Sales, Avg Rating, Item Visibility)
 - Slicers: Outlet Location (x3), Reset and Home navigation buttons
 
-![Blinkit Grocery Data Analysis Dashboard](assets/dashboard-screenshot.png)
+![Blinkit Grocery Data Analysis Dashboard]
+<img width="1473" height="815" alt="Image" src="https://github.com/user-attachments/assets/3289dc41-1066-470f-98c3-c91b77c1b7f1" />
 
 ## Key Insights
 
