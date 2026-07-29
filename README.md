@@ -93,7 +93,7 @@ blinkit-analysis-dashboard-By-PowerBi/
 ## How to Use
 
 1. Clone this repository.
-2. Open `Blinkit_Grocery_Data_Analysis_Dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads).
+2. Open `Blinkit_Grocery_Data_Analysis_Dashboard.pbix` in [Power BI Desktop](https://app.powerbi.com/groups/me/reports/dc4cba4d-243c-479b-afec-c4f425004e52/0e3eaa2b0e487d3ca323?experience=power-bi).
 3. Run the SQL scripts in `queries/` against your own `blinkit_data` table to reproduce the underlying analysis.
 4. Use the Outlet Location slicers to filter the dashboard by tier, and the Item Type panel to switch between Total Sales, Average Sales, and No. of Items views.
 
